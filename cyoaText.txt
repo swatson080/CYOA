@@ -1,0 +1,17 @@
+$1:I don't know why I let my friends convince me to do stupid shit like this.
+@1 "I'm not going in first!" I repeated, taking another step away from the entrance.$2
+@2 "Fine, I'll go first, but you guys are a bunch of pussies, you know that?"$3
+$2:"Guys, she doesn't want to," Ethan said.  He gave me a reassuring look, then grinned at the others, and walked into the cave.  One by one the others followed until I was the only one left.  With a final glance towards the road, I followed them inside. "Fuck, I can't see anything," I heard Max saying.  "It's a fucking cave, what did you expect?" Ethan said, as he activated the flashlight on his phone, revealing a
+@1 narrow and sloping tunnel.$4
+@2 large cavern - just how large was difficult to judge.$5
+$3:And with that, I stepped towards the mouth of the cave.  The light breeze vanished as I passed underneath the rock face, replaced by warm and stagnant air that smelled like dirt. I pulled my phone out, and turned on the flashlight, revealing a 
+@1 narrow and sloping tunnel.$6
+@2 large cavern - just how large was difficult to judge.$7
+$4:"Watch your step," said Ethan, and began to carefully make his way down. I pulled out my own phone, and noted with some concern that the battery was half drained already. I picked my way down over the loose rocks and gravel, keeping as close to the others as possible.  After a few minutes, the path split.  "Well, which way?" Ethan looked back at us, his face silhouetted against the glow of his light.
+@1 "Let's go left," I said.$8
+@2 "Let's go right," I said.$9
+$5:"This is awesome," Becky said, pulling out her own flashlight and shining it around. The cavern appeared extensive, the floor smooth sand. Moving together, we began to walk towards the opposite end, our footsteps echoing softly on the roof. "Hey look at this," Max said suddenly, shining his light towards a tunnel entrance in the smooth rock wall.  "We should totally go down there."  We paused, aiming our lights at the tunnel mouth.END
+$6:The others were crowded behind me.  "Woah, cool," said Max.  "It looks spooky," said Becky, pulling out her own light.  "Watch your step," I said, and started making my way down, avoiding the many loose rocks and slides of gravels in the path. After a few minutes of walking downhill, the passageway evened out, and then branched into two tunnels.END
+$7:One by one, the others entered the cave, and, standing side by side, we swept our phones back and forth.  The cavern was wide, and extensive, the floor smooth sand.  I started walking, and the others spread out.  As we neared the back of the cavern, I noticed a tunnel opening in the wall.END
+$8:"Left it is," Ethan said.  The floor down here was smoother, but the air was more smothering, and the walls seemed to be greedily eating the lights from our phones. "Did you hear that?" Becky said suddenly.  "Don't even fucking joke," Max said, but we had all stopped and were listening intently.  In the silence, we could all hear it.  "What the fuck is that?" Ethan said.  "I don't know, but I'm not going any further this way," Max said.  "Let's just get out of here," Becky said.  "Right, we're turning around," Ethan said.  I was only too glad to be leaving, and began walking back in the direction we came.  After a few minutes of walking, I heard Max hiss, "Hey, you missed the turn!"END
+$9:"Right it is," Ethan said.  The floor down here was smoother, but the air was more smothering, and the walls seemed to be greedily eating the lights from our phones.END
